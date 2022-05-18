@@ -23,8 +23,7 @@ h1.title {
       height: 401px; 
       background-color: rgb(248, 196, 245);
       border-radius: 5px;
-      margin: 100px 350px 100px;
-      margin-left: center;
+      margin: 100px 350px;
       grid-gap: 5px; 
       justify-content: center;
   }
@@ -43,8 +42,7 @@ h1.title {
     width: 510px;
     display: flex; 
     flex-wrap: wrap; 
-    margin:  1px 250px 10px;
-    margin-left: center;
+    margin:  1px 250px;
     text-align: center;
     text-justify: center;
     justify-content: center;
